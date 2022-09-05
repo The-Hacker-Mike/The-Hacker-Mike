@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @The-Hacker-Mike I like technology, innovation, entrepreneurship, videogames, reading, writing and programming. I believe the latter will allow me to bring super exciting things to the world.
-- 👀 I’m interested in information technology, data science, AI, cybersecurity, sports and politics.
-- 🌱 I’m currently learning front and back-end using HTML, CSS, JavaScript, MySQL, Node.JS and Express. Also, I'm learning functional programming on Racket. In a subject that does not involve programming, I'm learning about the impact of technological development on human history. The causes that lead to the actual states of poverty or richness of countries, and the variables that influence the development of institutions in nations. 
-- 👾 My team and I are working to develop a solution for an international Tech company.
-- 💞️ I’m looking to collaborate on all sort of projects including open source 😆
+- 👀 I’m interested in information technology, data science, AI, cybersecurity, music, sports and politics.
+- 🌱 In this semester, I'm currently learning react-native to build IOS/Android applications, alongside Expo and Sanity.io. Also, I'm diving depper into Machine Learning in a course orientated to AI, neural networks and Machine Learning algorithms. 
+- 👾 Currently working as an intern in the largest bank of the US.
+- 💞️ I’m looking to participate in more competitive events, having previously won a local AWS Hackathon with my team of 4, expand my knowledge in AI by taking online courses, and to collaborate on all sort of projects including open source 😆
 - 📫 How to reach me itzmrwaffle@gmail.com
 
 <!---
